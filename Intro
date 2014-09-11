@@ -1,0 +1,15 @@
+= Inleiding
+
+De OLA computerbeveiliging gaat, zoals de naam al doet vermoeden, over de beveiliging van computersystemen. 
+
+Bij de beveiliging van computersystemen zijn er drie belangrijke aspecten:
+
+* Availability of beschikbaarheid
+* Integrity of itegriteit
+* Confidentiality of vertrouwelijkheid
+
+Availability gaat over de beschikbaarheid van data en diensten. Een voorbeeld van een gevaar hiervoor zijn DoS aanvallen die erop gericht zijn systemen lam te leggen. 
+
+Integrity omvat twee aspecten. Enerzijds is er de integriteit van data, die ervoor moet zorgen dat data enkel gemanipuleerd kan worden door geauthoriseerde personen.
+
+Anderzijds is er ook de integriteit van systemen. 
